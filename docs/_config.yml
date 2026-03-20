@@ -1,0 +1,15 @@
+title: Automated Calling Documentation
+description: Documentation for the Automated Calling local voice agent
+baseurl: ""
+url: ""
+theme: minima
+markdown: kramdown
+
+# Navigation (simple)
+nav:
+  - Home: index.md
+  - Quick Start: quickstart.md
+  - Architecture: architecture.md
+  - Configuration: configuration.md
+  - Models: models/overview.md
+  - Troubleshooting: troubleshooting.md
